@@ -1,0 +1,10 @@
+{
+  "name":"IOTServerClient",
+  "version":"1.0.0",
+  "description":"Lightweight device-client to sync variables with a self-hosted IoT server",
+  "keywords":["iot","device","esp32","esp8266","arduino","heartbeat","variables"],
+  "license":"MIT",
+  "authors":[{"name":"Pushpak Jaiswal","url":"https://github.com/PUSHPAK-Jaiswal","maintainer":true}],
+  "platforms":["espressif32","espressif8266"],
+  "frameworks":["arduino"]
+}
